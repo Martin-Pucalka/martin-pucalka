@@ -1,5 +1,8 @@
 ### Hi there 👋
-https://img.shields.io/badge/-BLAZOR-blueviolet?logo=blazor&logoColor=white&style=flat-square
+
+<img alt="" src="https://img.shields.io/badge/-BLAZOR-blueviolet?logo=blazor&logoColor=white&style=flat-square" />
+
+
 <!--
 **Martin-Pucalka/martin-pucalka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
